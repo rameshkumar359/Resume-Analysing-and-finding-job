@@ -18,9 +18,7 @@ import streamlit as st
 import base64
 from pyresparser import ResumeParser
 import streamlit as st
-import nltk
 import spacy
-nltk.download('stopwords')
 spacy.load('en_core_web_sm')
 
 

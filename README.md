@@ -21,9 +21,9 @@ Streamlit, GPT-4 or any LLM, linkedin parser, etc
 ![Screenshot (23)](https://github.com/rameshkumar359/Resume-Analysing-and-finding-job/assets/96288285/65e72e10-892c-4ca1-986d-9929f98b1c07)
 
 # technologies used:
-1.reading the uploaded pdf using pdfminer a python library
-2.extracting the data from pdf using python library pyresumeparser and nlp spacy en_core_web_sm
-3.using llm to analyse the resume here i used meta llama 2
-4.prompting llm to extract accurate information as required
-5.finding domain of the resume using llm
-6.then after giving our preferences like job location,domain,city the selenium driver open the tab automatically and scroll down to list jobs
+1.reading the uploaded pdf using pdfminer a python library.
+2.extracting the data from pdf using python library pyresumeparser and nlp spacy en_core_web_sm.
+3.using llm to analyse the resume here i used meta llama 2.
+4.prompting llm to extract accurate information as required.
+5.finding domain of the resume using llm.
+6.then after giving our preferences like job location,domain,city the selenium driver open the tab automatically and scroll down to list jobs.

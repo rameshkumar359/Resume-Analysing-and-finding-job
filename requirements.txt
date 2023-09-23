@@ -1,0 +1,10 @@
+streamlit
+selenium
+nltk
+spacy
+pyresparser
+pdfminer
+replicate
+streamlit_option_menu
+base64
+streamlit_tags

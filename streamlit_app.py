@@ -207,4 +207,4 @@ if pdf_file is not None:
                 f'https://www.linkedin.com/jobs/search?keywords={domain}%20{skill}%20{keywords}&location={city}%2C%20{city}%2C%20{country}')
             going_through_jobs()
 
-            # Loop to scroll through all jobs and click on see more jobs button for infinite scrolling
+    # Loop to scroll through all jobs and click on see more jobs button for infinite scrolling

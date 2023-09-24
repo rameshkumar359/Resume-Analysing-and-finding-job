@@ -33,3 +33,6 @@ Streamlit, GPT-4 or any LLM, linkedin parser, etc
 5. finding domain of the resume using llm.
 
 6. then after giving our preferences like job location,domain,city the selenium driver open the tab automatically and scroll down to list jobs.
+
+### youtube Demo link :https://www.youtube.com/watch?v=Eh8JNXIjSn4&t=854s
+### Linkedin link: https://www.linkedin.com/in/ramesh-kumar-k-562891225/
